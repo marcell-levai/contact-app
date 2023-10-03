@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Information about my challenge project
+
+I tried to do all the tasks, but unfortunately I had not enough free time to do all of them.
+My aim was to use all the tools described in the job advertisement.
+The file upload and some design element is missing, I tried to make everything localy stored to make it easy to run.
+After all, I learned a lot during the preparation, thank you for the assignment. :)
+
 ## Getting Started
 
 First, run the development server:
